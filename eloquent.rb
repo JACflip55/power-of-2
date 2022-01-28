@@ -1,5 +1,5 @@
 def nearest_power_of_2(n)
 
-  return Math.log2(n).round
+  return Math.log2(n).round**2
 
 end
